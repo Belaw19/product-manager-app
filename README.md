@@ -1,17 +1,32 @@
-# notes_manager_app
+# Flutter Product Manager App
 
-A new Flutter project.
+A Flutter CRUD application using Provider state management and http package.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Create Product
+- Read Products
+- Update Product
+- Delete Product
+- Loading Indicator
+- API Integration
 
-A few resources to get you started if this is your first Flutter project:
+## Packages Used
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- provider
+- http
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## API Used
+
+https://fakestoreapi.com/products
+
+## Screenshots
+
+### Home Screen
+![Home](screenshots/screenshots/Screenshot 2026-05-18 014522.png)
+
+### Add Product
+![Add](screenshots/Screenshot%202026-05-18%20014551.png)
+
+### Edit Product
+![Edit](screenshots/Screenshot%202026-05-18%20014455.png)
