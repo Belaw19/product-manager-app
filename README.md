@@ -23,7 +23,7 @@ https://fakestoreapi.com/products
 ## Screenshots
 
 ### Home Screen
-![Home](screenshots/screenshots/Screenshot 2026-05-18 014522.png)
+![Home](screenshots/Screenshot%202026-05-18%20014522.png)
 
 ### Add Product
 ![Add](screenshots/Screenshot%202026-05-18%20014551.png)
