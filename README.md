@@ -30,3 +30,8 @@ https://fakestoreapi.com/products
 
 ### Edit Product
 ![Edit](screenshots/Screenshot%202026-05-18%20014455.png)
+
+
+NAME:- KIDUS GIRMA
+ID:-UGR/7576/16
+SEECTION:-1
